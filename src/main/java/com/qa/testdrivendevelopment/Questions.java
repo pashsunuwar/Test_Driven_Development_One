@@ -49,9 +49,10 @@ public class Questions {
 	 */
 
 	public String sandwichFilling(String sandwich) {
-		newStr = sandwich.
-		String reversed = reverseString(str);
-		return result;
+		String result = "";
+		result += sandwich.toLowerCase();	
+		
+		
 	}
 
 	/**
